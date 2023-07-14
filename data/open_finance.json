@@ -1,0 +1,46 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "3CWE4927CF15355",
+      "account_holder_type": "INDIVIDUAL",
+      "account_holder_id": "7890098789087",
+      "account_id": "EREB-89077589",
+      "account_category": "CREDIT_CARD",
+      "value_date": "2022-11-18",
+      "description": "APPL3STORE",
+      "type": "OUTFLOW",
+      "amount": 650.89,
+      "currency": "BRL",
+      "institution": "Erebor Retail Brasil",
+      "mcc": 2345,
+      "category": "Income & Payments",
+      "subcategory": "Freelance",
+      "merchant": {
+        "logo": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180",
+        "website": "https://www.apple.com/br/",
+        "merchant_name": "Apple, Inc"
+      }
+    },
+    {
+      "transaction_id": "3CWE4927CF15996",
+      "account_holder_type": "INDIVIDUAL",
+      "account_holder_id": "996685090015",
+      "account_id": "BDBACA-89077896",
+      "account_category": "CHECKING_ACCOUNT",
+      "value_date": "2022-12-02",
+      "description": "OXXO SP",
+      "type": "OUTFLOW",
+      "amount": 999.9,
+      "currency": "BRL",
+      "institution": "BCO DO BRASIL",
+      "mcc": null,
+      "category": "Income & Payments",
+      "subcategory": "Freelance",
+      "merchant": {
+        "logo": "https://storage.googleapis.com/new-cdn.mercafacil.com/wl_assets/dynamic/65d84ba0-a2f3-11ed-8928-dd578f525074-MOBILE_1OCo1.png",
+        "website": "https://merchants-r-us.com",
+        "merchant_name": "Merchants R Us Global"
+      }
+    }
+  ]
+}

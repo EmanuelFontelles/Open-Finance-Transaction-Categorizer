@@ -1,0 +1,43 @@
+Transaction ID,Category,Subcategory,Transaction Data,ChatGPT Response
+3CWE4927CF15355,Shopping,Electronics,"{'transaction_id': '3CWE4927CF15355', 'description': 'APPL3STORE', 'type': 'OUTFLOW', 'amount': 650.89, 'currency': 'BRL', 'institution': 'Erebor Retail Brasil', 'merchant': {'merchant_name': 'Apple, Inc'}}","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Certainly! Based on the information provided, here's how you can categorize the transaction:\n\nCategory: <Shopping>\nSubcategory: <Electronics>\n\nLet me know if I can assist you with anything else!"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1689343200,
+  ""id"": ""chatcmpl-7cDcuI33I13isTensQu6vxDFA48Ke"",
+  ""model"": ""gpt-3.5-turbo-0613"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 42,
+    ""prompt_tokens"": 101,
+    ""total_tokens"": 143
+  }
+}"
+3CWE4927CF15996,Expenses,Shopping,"{'transaction_id': '3CWE4927CF15996', 'description': 'OXXO SP', 'type': 'OUTFLOW', 'amount': 999.9, 'currency': 'BRL', 'institution': 'BCO DO BRASIL', 'merchant': {'merchant_name': 'Merchants R Us Global'}}","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Based on the provided information, the categorization for this transaction can be as follows:\n\nCategory: <Expenses>\nSubcategory: <Shopping>\n\nPlease note that the category and subcategory are general classifications and can vary depending on your specific financial management system or personal preferences."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1689343202,
+  ""id"": ""chatcmpl-7cDcwBthLxf1ohe5DiUwHdgdYvxAP"",
+  ""model"": ""gpt-3.5-turbo-0613"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 54,
+    ""prompt_tokens"": 105,
+    ""total_tokens"": 159
+  }
+}"
